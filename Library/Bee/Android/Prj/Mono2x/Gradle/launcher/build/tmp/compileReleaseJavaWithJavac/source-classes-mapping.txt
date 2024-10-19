@@ -1,0 +1,2 @@
+com/DefaultCompany/Decentrathon/BuildConfig.java
+ com.DefaultCompany.Decentrathon.BuildConfig
